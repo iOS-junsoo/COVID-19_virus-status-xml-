@@ -24,6 +24,7 @@
 		9978DA5C27168505009DD07A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9978DA5F27168505009DD07A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9978DA6127168505009DD07A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9978DA6D27169831009DD07A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				9978DA5C27168505009DD07A /* Assets.xcassets */,
 				9978DA5E27168505009DD07A /* LaunchScreen.storyboard */,
 				9978DA6127168505009DD07A /* Info.plist */,
+				9978DA6D27169831009DD07A /* README.md */,
 			);
 			path = "COVID-19_virus status";
 			sourceTree = "<group>";
